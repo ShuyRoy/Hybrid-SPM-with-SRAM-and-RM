@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65bbfad8-5750-4d7e-8bc4-5eb99f4f40e1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LWSR.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/自己的算法/LWSR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+              <folding>
+                <element signature="e#59#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WA.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/对比算法/WA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="74" column="24" lean-forward="true" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LMR0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/对比算法/LMR0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-531">
+              <caret line="69" column="20" lean-forward="true" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/对比算法/list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1890">
+              <caret line="63" column="18" lean-forward="false" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SOA.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/对比算法/SOA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="229" column="4" lean-forward="false" selection-start-line="229" selection-start-column="4" selection-end-line="229" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FCFS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/对比算法/FCFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LWSR-1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-546">
+              <caret line="163" column="35" lean-forward="false" selection-start-line="163" selection-start-column="35" selection-end-line="163" selection-end-column="35" />
+              <folding>
+                <element signature="e#59#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="two_core.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/自己的算法/two_core.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="34" column="23" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="34" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="four_core.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/自己的算法/four_core.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3145">
+              <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="174" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/对比算法/list.py" />
+        <option value="$PROJECT_DIR$/自己的算法/LWSR-23.py" />
+        <option value="$PROJECT_DIR$/自己的算法/dataProcessing.py" />
+        <option value="$PROJECT_DIR$/自己的算法/max_data.py" />
+        <option value="$PROJECT_DIR$/自己的算法/four_core.py" />
+        <option value="$PROJECT_DIR$/对比算法/LMR.py" />
+        <option value="$PROJECT_DIR$/自己的算法/LWSR-2.py" />
+        <option value="$PROJECT_DIR$/对比算法/ex.py" />
+        <option value="$PROJECT_DIR$/自己的算法/two_core.py" />
+        <option value="$PROJECT_DIR$/对比算法/pure_SRAM.py" />
+        <option value="$PROJECT_DIR$/对比算法/SOA.py" />
+        <option value="$PROJECT_DIR$/自己的算法/LWSR-1.py" />
+        <option value="$PROJECT_DIR$/对比算法/merge_list.py" />
+        <option value="$PROJECT_DIR$/自己的算法/LWSR.py" />
+        <option value="$PROJECT_DIR$/对比算法/FCFS.py" />
+        <option value="$PROJECT_DIR$/对比算法/WA.py" />
+        <option value="$PROJECT_DIR$/对比算法/LMR0.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="423" />
+    <option name="y" value="22" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1YKFwr6NiTQ2IYmRTCuc6d08U8e" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="算法实现" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法实现" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法实现" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法实现" type="462c0819:PsiDirectoryNode" />
+              <item name="对比算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法实现" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法实现" type="462c0819:PsiDirectoryNode" />
+              <item name="自己的算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.LMR0">
+    <configuration name="FCFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/对比算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="算法实现" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对比算法/FCFS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="LMR0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/对比算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="算法实现" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对比算法/LMR0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="LWSR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自己的算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="算法实现" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自己的算法/LWSR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="WA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/对比算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="算法实现" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对比算法/WA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="merge_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/对比算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="算法实现" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/对比算法/merge_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.LWSR" />
+      <item index="1" class="java.lang.String" itemvalue="Python.WA" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LMR0" />
+      <item index="3" class="java.lang.String" itemvalue="Python.merge_list" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FCFS" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.LMR0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.WA" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FCFS" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LWSR" />
+        <item index="4" class="java.lang.String" itemvalue="Python.merge_list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65bbfad8-5750-4d7e-8bc4-5eb99f4f40e1" name="Default Changelist" comment="" />
+      <created>1582683620772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582683620772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.078976035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31354168" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12604167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26666668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="252" key="GridCell.Tab.0.bottom" timestamp="1586683301010">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1419" height="256" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1440.860@1920.0.1440.860" timestamp="1586581806341" />
+    <state width="1419" height="252" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1440.860@62.0.1474.864" timestamp="1586683301010" />
+    <state width="1453" height="187" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1582873392751" />
+    <state width="1419" height="252" key="GridCell.Tab.0.center" timestamp="1586683301009">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1419" height="256" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1440.860@1920.0.1440.860" timestamp="1586581806341" />
+    <state width="1419" height="252" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1440.860@62.0.1474.864" timestamp="1586683301009" />
+    <state width="1453" height="187" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1582873392751" />
+    <state width="1419" height="252" key="GridCell.Tab.0.left" timestamp="1586683301009">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1419" height="256" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1440.860@1920.0.1440.860" timestamp="1586581806341" />
+    <state width="1419" height="252" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1440.860@62.0.1474.864" timestamp="1586683301009" />
+    <state width="1453" height="187" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1582873392751" />
+    <state width="1419" height="252" key="GridCell.Tab.0.right" timestamp="1586683301009">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1419" height="256" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1440.860@1920.0.1440.860" timestamp="1586581806341" />
+    <state width="1419" height="252" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1440.860@62.0.1474.864" timestamp="1586683301009" />
+    <state width="1453" height="187" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1582873392751" />
+    <state width="1419" height="252" key="GridCell.Tab.1.bottom" timestamp="1586683301012">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1440.860@1920.0.1440.860" timestamp="1586581499340" />
+    <state width="1419" height="252" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1440.860@62.0.1474.864" timestamp="1586683301012" />
+    <state width="1453" height="258" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1582809306099" />
+    <state width="1419" height="252" key="GridCell.Tab.1.center" timestamp="1586683301011">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1440.860@1920.0.1440.860" timestamp="1586581499340" />
+    <state width="1419" height="252" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1440.860@62.0.1474.864" timestamp="1586683301011" />
+    <state width="1453" height="258" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1582809306098" />
+    <state width="1419" height="252" key="GridCell.Tab.1.left" timestamp="1586683301011">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1440.860@1920.0.1440.860" timestamp="1586581499340" />
+    <state width="1419" height="252" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1440.860@62.0.1474.864" timestamp="1586683301011" />
+    <state width="1453" height="258" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1582809306098" />
+    <state width="1419" height="252" key="GridCell.Tab.1.right" timestamp="1586683301011">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1419" height="252" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1440.860@1920.0.1440.860" timestamp="1586581499340" />
+    <state width="1419" height="252" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1440.860@62.0.1474.864" timestamp="1586683301011" />
+    <state width="1453" height="258" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1582809306099" />
+    <state x="2141" y="72" key="SettingsEditor" timestamp="1585142042148">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2141" y="72" key="SettingsEditor/62.0.1474.864/1920.0.1440.860@1920.0.1440.860" timestamp="1585142042148" />
+    <state x="666" y="191" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582809302514">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="666" y="191" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/62.0.1474.864@62.0.1474.864" timestamp="1582809302514" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585898804481">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864/1920.0.1440.860@62.0.1474.864" timestamp="1585898804481" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="26" column="34" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/dataProcessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/max_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/pure_SRAM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/FCFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3930">
+          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6510">
+          <caret line="220" column="0" lean-forward="false" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/SOA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6450">
+          <caret line="215" column="48" lean-forward="false" selection-start-line="215" selection-start-column="48" selection-end-line="215" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/dataProcessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/pure_SRAM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/SOA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6090">
+          <caret line="203" column="35" lean-forward="true" selection-start-line="203" selection-start-column="35" selection-end-line="203" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3930">
+          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6510">
+          <caret line="220" column="0" lean-forward="true" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/SOA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2370">
+          <caret line="79" column="25" lean-forward="true" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/dataProcessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="48" column="11" lean-forward="true" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6330">
+          <caret line="214" column="37" lean-forward="true" selection-start-line="214" selection-start-column="37" selection-end-line="214" selection-end-column="37" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/txttoexcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-23.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/encodings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2127">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/reverse_remain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/rm_pre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/rm_back.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/rm_76.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/a0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3930">
+          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/dataProcessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="100" column="61" lean-forward="true" selection-start-line="100" selection-start-column="61" selection-end-line="100" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/max_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/LMR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="90" column="34" lean-forward="false" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/pure_SRAM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="46" column="37" lean-forward="true" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="163" column="35" lean-forward="false" selection-start-line="163" selection-start-column="35" selection-end-line="163" selection-end-column="35" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="63" column="18" lean-forward="false" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/two_core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="34" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/LWSR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自己的算法/four_core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
+          <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="174" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/merge_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/FCFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/SOA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="229" column="4" lean-forward="false" selection-start-line="229" selection-start-column="4" selection-end-line="229" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/WA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="74" column="24" lean-forward="true" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对比算法/LMR0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531">
+          <caret line="69" column="20" lean-forward="true" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
